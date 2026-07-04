@@ -3,7 +3,7 @@
 A fully responsive personal portfolio website showcasing my skills, projects, and experience as a Full Stack Web Developer.
 
 ## Live Demo
-[Add Netlify link here after deployment]
+https://anubhab-mondal-portfolio.netlify.app
 
 ## Sections
 - Hero / Introduction
